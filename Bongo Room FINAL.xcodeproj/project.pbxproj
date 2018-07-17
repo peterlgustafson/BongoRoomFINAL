@@ -12,6 +12,10 @@
 		BD4C7CD120F688D2000342C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD4C7CCF20F688D2000342C3 /* Main.storyboard */; };
 		BD4C7CD320F688D3000342C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD4C7CD220F688D3000342C3 /* Assets.xcassets */; };
 		BD4C7CD620F688D3000342C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD4C7CD420F688D3000342C3 /* LaunchScreen.storyboard */; };
+		BD4C7CDE20F68DF9000342C3 /* NameAndGroupCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4C7CDD20F68DF9000342C3 /* NameAndGroupCodeViewController.swift */; };
+		BD4C7CE020F68E32000342C3 /* SavoryFoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4C7CDF20F68E32000342C3 /* SavoryFoodViewController.swift */; };
+		BD4C7CE220F69750000342C3 /* SipsDrinksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4C7CE120F69750000342C3 /* SipsDrinksViewController.swift */; };
+		BD4C7CE420F6A1EF000342C3 /* CheckOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4C7CE320F6A1EF000342C3 /* CheckOutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		BD4C7CD220F688D3000342C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD4C7CD520F688D3000342C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD4C7CD720F688D3000342C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD4C7CDD20F68DF9000342C3 /* NameAndGroupCodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameAndGroupCodeViewController.swift; sourceTree = "<group>"; };
+		BD4C7CDF20F68E32000342C3 /* SavoryFoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavoryFoodViewController.swift; sourceTree = "<group>"; };
+		BD4C7CE120F69750000342C3 /* SipsDrinksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SipsDrinksViewController.swift; sourceTree = "<group>"; };
+		BD4C7CE320F6A1EF000342C3 /* CheckOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckOutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 				BD4C7CCB20F688D2000342C3 /* AppDelegate.swift */,
 				BD4C7CCD20F688D2000342C3 /* ViewController.swift */,
 				BD4C7CCF20F688D2000342C3 /* Main.storyboard */,
+				BD4C7CE320F6A1EF000342C3 /* CheckOutViewController.swift */,
+				BD4C7CE120F69750000342C3 /* SipsDrinksViewController.swift */,
+				BD4C7CDF20F68E32000342C3 /* SavoryFoodViewController.swift */,
+				BD4C7CDD20F68DF9000342C3 /* NameAndGroupCodeViewController.swift */,
 				BD4C7CD220F688D3000342C3 /* Assets.xcassets */,
 				BD4C7CD420F688D3000342C3 /* LaunchScreen.storyboard */,
 				BD4C7CD720F688D3000342C3 /* Info.plist */,
@@ -135,8 +147,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD4C7CE420F6A1EF000342C3 /* CheckOutViewController.swift in Sources */,
+				BD4C7CE020F68E32000342C3 /* SavoryFoodViewController.swift in Sources */,
 				BD4C7CCE20F688D2000342C3 /* ViewController.swift in Sources */,
 				BD4C7CCC20F688D2000342C3 /* AppDelegate.swift in Sources */,
+				BD4C7CDE20F68DF9000342C3 /* NameAndGroupCodeViewController.swift in Sources */,
+				BD4C7CE220F69750000342C3 /* SipsDrinksViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
