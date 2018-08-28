@@ -1,4 +1,4 @@
-# BongoRoomFINAL
+# BongoRoom Mobile Ordering Kiosk
 About: Initial version of a pre-order platform to allow customers to pre-order their food and beverage while waiting at popular restaurants that don't take reservations.
 
 The App:
